@@ -1,7 +1,7 @@
 # Power BI Dashboard
 
 ## Project Overview
-This is a Power BI dashboard created as a student project to analyze data and show useful insights.
+This project is an interactive Sales Performance Dashboard created using Microsoft Power BI. The dashboard analyzes sales data to identify sales trends, top-performing products, category performance, and other important business insights.
 
 ## Tools Used
 - Power BI
